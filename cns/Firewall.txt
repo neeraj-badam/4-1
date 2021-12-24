@@ -1,0 +1,55 @@
+A firewall is a network security device, either hardware or 
+software-based, which monitors all incoming and outgoing 
+traffic and based on a defined set of security rules it 
+accepts, rejects or drops that specific traffic.
+
+Accept : allow the traffic
+Reject : block the traffic but reply with an “unreachable error”
+Drop : block the traffic with no reply
+
+A firewall establishes a barrier between secured internal 
+networks and outside untrusted network, such as the Internet.
+
+Characteristics :
+-> All traffic from inside to outside, and vice versa, 
+must pass through the firewall. This is achieved by 
+physically blocking all access to the local network 
+except via the firewall.
+-> Various configurations are possible.  
+-> Various types of firewalls are used, which implement 
+various types of security policies.  
+-> Blockage against unauthorized access
+-> Wireless network (Wi-fi) Protection
+
+Limitations :
+-> The firewall does not protect against internal threats, 
+such as a disgruntled employee or an employee who 
+unwittingly cooperates with an external attacker.
+-> cannot protect against transfer of all virus 
+infected programs or files
+-> cannot protect from attacks bypassing it
+
+Firewalls are generally of two types: Host-based 
+and Network-based.
+
+Host- based Firewalls : Host-based firewall is installed on 
+each network node which controls each incoming and 
+outgoing packet. It is a software application or suite 
+of applications, comes as a part of the operating system. 
+Host-based firewalls are needed because network firewalls 
+cannot provide protection inside a trusted network. 
+Host firewall protects each host from attacks and 
+unauthorized access.
+Network-based Firewalls : Network firewall function on 
+network level. In other words, these firewalls filter 
+all incoming and outgoing traffic across the network. 
+It protects the internal network by filtering the 
+traffic using rules defined on the firewall. 
+A Network firewall might have two or more network 
+interface cards (NICs). A network-based firewall 
+is usually a dedicated system with proprietary 
+software installed.
+
+A bastion host is a server whose purpose is to provide 
+access to a private network from an external network,
+such as the Internet.

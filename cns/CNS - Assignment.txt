@@ -1,0 +1,11 @@
+   Assignment -2
+            CNS  last date 18/12/21
+1. Explain MIME, S/MIME in detail?
+2. How is  PGP will  protect Emails?
+3. Email security?
+4. Explain Trusted systems in detail
+5. Explain SSL record protocol and handshake protocol in detail?
+6.  Explain SNMPV3 protocol in detail
+7. How  IDS will helpful to secure  different systems?
+8. Explain different types of Fire Walls in detail with configuration 
+
