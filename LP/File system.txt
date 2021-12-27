@@ -1,0 +1,86 @@
+=> linux uses / but windows uses \
+=> linux also cares about capitalization
+   In linux file can also be like Filename filename fileName
+   where as in windows it can't be like this Filename filename fileName if we try to save those files then it asks to replace existing file
+
+Linux File Hierarchy Structure (FHS)
+
+1. / (Root): Primary hierarchy root and root directory of the entire file system hierarchy. 
+ 
+
+
+
+Every single file and directory starts from the root directory
+The only root user has the right to write under this directory
+/root is the root user’s home directory, which is not the same as /
+
+2. /bin : 
+	-> shortform for binaries
+	-> Contains binary executables
+	-> Commands used by all the users of the system are located here e.g. ps, ls, ping, grep, cp
+
+3. /sbin
+	-> shortform for system binaries
+	-> Just like /bin, /sbin also Contains binary executables
+	-> The linux commands located under this directory are used typically by system administrator, for system maintenance purpose.
+	-> Also system binaries which are used by system administrator will use & standard user can't have access without permission
+
+-> both of thes /bin & /sbin folders contain the files that need to be accessible when running single user mode
+-> single user mode is something like it boots you as a root user to allow you to do repairs,upgrade or testing, networking is usually disabled in this mode because of security issues.
+-> When you install a program it typically not placed in these folders
+
+3. /boot :
+	-> It contains everything that our OS needs to boot
+	-> boot loaders are present here
+
+4. /dev :
+	-> This is where our devices live
+	-> These include all the devices that are attached to the system.
+	-> like it contains about keyboard, mouse, disk, drivers etc
+
+5. /etc : 
+	-> short form for edit to configure
+	-> All the configurations are stored under this folder which required by all programs.
+	-> This also contains startup and shutdown shell scripts used to start/stop individual programs.
+
+6. /home :
+	-> Users’ home directories, containing saved files, personal settings, etc.
+	-> Home directories for all users to store their personal files.
+	-> example: /home/kishlay, /home/neeraj
+
+7. /lib, /lib32, /lib64 :
+	-> These are where the libraries are stored
+	-> libraries such as static, dynamic libraries are stored
+	-> Library filenames are either ld* or lib*.so.*
+8. /media :
+	-> Mount points for removable media such as CD, USB, floppy Disk
+	->
+
+9. /mnt :
+	-> If you are mounting the directories manually then mount in this directory and leave /media directory that can be managed by OS
+	-> Temporarily mounted filesystems.
+
+10. /opt :
+	-> This is optional folder
+	-> manually installed s/w will be stored here from vendor resides
+	-> This is also if you install s/w that you have created
+
+11. /proc :
+	-> It contains all the pseudo files
+	-> It contains all details about system processes
+	-> Every process has a directory so all the details of that particular process will be maintained with their process id
+
+12. /root :
+	-> It is the root users home folder
+	-> If you want to store folders in this directory then you need permissions to access
+
+13. /srv :
+	-> It is the service directory where service data is stored
+	-> Contains server specific services related data.
+
+14. /tmp :
+	-> It is a temporary directory
+	-> This is where files are temporarily stored by apps such as session related data
+	-> Files under this directory are deleted when system is rebooted.
+15. /usr :
+	-> This is the user application space where apps will be installed
