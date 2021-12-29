@@ -1,0 +1,112 @@
+Youtube
+-> Founded in February 2005
+-> YouTube has become so popular that it now provides a set of development application programming interfaces (APis) to enable developers to integrate You Tube functionality into their web sites.
+Youtube API
+-> The YouTube APIs and tools enable site developers to integrate YouTube's Video content and functionality into their web site, software applications, or devices.
+->  First, developers need to decide which APIs and tools meet their needs. 
+
+	HTML but not JS -> look Widgets and custom player
+	JS &/ flash player -> examine player APIS
+	Programming at device or development server-side logic
+	look at Data API
+
+
+Widgets
+Videobar, Video search control who are not familiar with JS
+
+The Video Bar - Using Google AJAX Search API
+The Video Bar is a simple way to integrate a strip of video thumbnails into
+your site. Just clicking on ,a thumbnail opens a floating player for playing
+video locally. For integration teams, YouTube provides a simple wizard to
+help jumpstart the process. A Programming Guide4 is also available to help
+developers get the most out of the functionality provided and leverage even
+more from the Video Bar.
+
+Video search control - Using Google AJAX Search API
+
+Youtube Player API :
+	we can control using JS or actionscript
+embedded player :
+	after embedding you can use actionScript instead of JS
+chromeless player :
+	without controls
+
+The YouTube Custom Player 
+-> The custom player goes even further than just using scripted API calls to
+paste videos into your site. Developers can easily configure the custom
+player to show playlists, favorites, or custom, locally available videos.
+
+Youtube Data API
+-> The YouTube Data API lets you incorporate Youtube functionality into your own application or website. You can perform searches,upload videos
+
+
+
+Zimbra:
+	Features:
+		Chat
+		Messaging and collaboration : emails
+		Advanced integrated web experience : create calendar, task, etc
+		simplified administration
+		search 
+-> $350M
+-> zimbra email and calender server is available for linux, mac os 
+   and virtualization platforms.
+-> Zimbra can synchronize with smartphones (such as iPhone and 
+   Blackerry) and desktop clients (such as Outlook and Thunderbird )
+-> Yahoo! Zimbra open source email and calendar client which runs
+   on any windows, Apple or Linux desktop computer. It works online
+   and offiine, and it works with any POP or IMAP
+   account, such as Yahoo! Mail, Zimbra Mail, Hotmail,
+   Gmail , AOL, Microsoft Outlook, or any other work or 
+   personal email that uses POP or IMAP. 
+-> Zimbra provides software for email and collaboration
+   including email, group calendar, contacts, instant messaging, 
+   file storage and web document management. 
+-> Zimbra can be deployed on-premises or as a hosted email 
+   solution and imposes no limit on the size of email storage. 
+-> Advanced web technology adds Conversation Views and Message 
+   Tags to automatically highlight important emails in all your 
+   email accounts. 
+-> The visual Search Build makes it easy to quickly find 
+   important pictures, documents, or messages from people 
+   you care about.
+-> also provides archieving feature
+   Ajax-based web collaboration
+   email contacts, shared calendar, VoIP, online document
+   authoring into a browser-based interface
+
+Facebook :
+Facebook is the fourth most-trafficked website in us
+
+Zoho :
+-> It is a comprehensive suites of ol business, productivity
+   and collaboration applications designed to work together.
+-> It is automatically updated.
+-> If you want to use another application which is not present
+   in zoho then we can integrate it.
+-> Zoho is a cloud software vendor that ships SaaS products 
+   from its development centres.
+-> Zoho Mail provides ample storage space. You can store 
+   and search through every email you have ever sent or 
+   received, and it offers offline support so you can take 
+   your mail with you. 
+-> Zoho Mail offers advanced, self-learning algorithms 
+   that keep unwanted spam out of your inbox and deliver
+   only legitimate emails
+
+DimDim collaboration
+-> Dimdim invested more than 15 person-years of engineering
+   development into making a product to support complex web 
+   meetings. This free service lets anyone communicate using 
+   rich media-in real time.
+   Unlike competiting web conference products, DimDim does 
+   not require users to install software on their computers 
+   in order to attend a meeting. Users can start or join 
+   meetings using only a few mouse clicks.
+-> Dimdim is available as open source software, and it 
+   already integrates with CRM and LMS s/w so it can be
+   extended easily
+-> Dimdim open source community edition code named "Liberty"
+   which consists of all features
+   streaming and media components
+-> can host meetings upto 20 people

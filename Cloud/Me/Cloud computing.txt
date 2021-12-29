@@ -1,0 +1,77 @@
+Cloud computing :
+Simply put, cloud computing is the delivery of computing services—including servers, storage, databases, networking—over the Internet (“the cloud”) to offer faster
+innovation and flexible resources.
+
+Key Characteristics of Cloud Computing :
+-> Users are not tied to a specific device
+-> Users have location independence
+-> Users can use cloud any time
+-> Multitenancy enables sharing of resources and costs among a large pool of users.
+-> Reliability is enhanced due to use of multiple redundant sites by service providers.
+-> Dynamically scalable cloud services based on changing user demands.
+-> Access to cloud is usually logged to enforce security
+-> Cloud computing is likely to bring supercomputing capacity to the masses.
+
+Advantages of Cloud Computing :
+-> Lower computer costs :
+	* ) You do not need a high-powered and high-priced computer to run cloud computing's web-based applications.
+	* ) Since applications run in the cloud, not on the desktop PC, your desktop PC does not need the processing power or hard disk space demanded
+	    by traditional desktop software.
+	* ) When you are using web-based applications, your PC can be less expensive, with a smaller hard disk, less memory, more efficient processor.
+	* ) In fact, your PC in this scenario does not even need a CD or DVD drive, as no software programs have to be loaded and no document files need to be saved.
+
+-> Improved performance : 
+	* ) Computers in a cloud computing system boot and run faster because they have fewer programs and processes loaded into memory
+
+-> Reduced software costs
+	* ) Instead of purchasing expensive software applications, you can get most of what you need at low cost.
+	    Eg : most cloud computing applications today, such as the Google Docs suite.
+
+-> Instant software updates
+	* ) When the application is web-based, updates happen automatically available the next time you log into the cloud. 
+	* ) When you access a web-based application, you get the latest version without needing to pay for or download an upgrade.
+
+-> Improved document format compatibility.
+
+-> Unlimited storage capacity
+	* ) Cloud computing offers virtually Unlimited storage.
+	* ) Your computer's current 1 Terabyte hard drive is small compared to the hundreds of Petabytes available in the cloud.
+
+-> Increased data reliability
+	* ) Unlike desktop computing, in which if a hard disk crashes and destroy all your valuable data, a computer crashing in the cloud should
+	    not affect the storage of your data.
+	* ) Provides data redundancy with high reliability.
+
+-> Universal document access
+	* ) That is not a problem with cloud computing, because you do not take your documents with you.
+	* ) Instead, they stay in the cloud, and you can access them whenever you have a computer and an Internet connection
+	* ) Documents are instantly available from wherever you are
+
+-> Latest version availability
+	* ) When you edit a document at home, that edited version is what you see when you access the document at work.
+	* ) The cloud always hosts the latest version of your documents
+
+-> Easier group collaboration
+	* ) Sharing documents leads directly to better collaboration.
+	* ) multiple users can collaborate easily on documents and projects
+
+-> Device independence.
+	* ) You can access the cloud from any portable device which has internet
+
+Disadvantages of Cloud Computing :
+-> Requires a constant Internet connection :
+	* ) Cloud computing is impossible if you cannot connect to the Internet.
+	* ) Since you use the Internet to connect to both your applications and documents,
+	    if you do not have an Internet connection you cannot access anything, even your own documents.
+
+-> Does not work well with low-speed connections :
+	* ) Web-based applications require a lot of bandwidth to download, as do large documents.
+
+-> Can be slow :
+	* ) Even with a fast connection, web-based applications can sometimes be slower because of increase in number of users accessing the data.
+
+-> Stored data might not be secure :
+	* ) With cloud computing, all your data is stored on the cloud.
+
+-> Stored data can be lost :
+	* ) Theoretically, data stored in the cloud is safe, replicated across multiple machines.

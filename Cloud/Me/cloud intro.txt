@@ -1,0 +1,24 @@
+Simply put, cloud computing is the delivery of computing services—including servers, storage, databases, networking - over the Internet (“the cloud”)
+to offer faster innovation and  flexible resources.
+
+Cost :
+	Cloud computing eliminates the capital expense of buying hardware and software and setting up and running on-site datacenters—the
+	racks of servers, the round-the-clock electricity for power and cooling, the IT experts for managing the infrastructure. It adds up fast.
+Global scale :
+	The benefits of cloud computing services include the ability to scale elastically. In cloud speak, that means delivering the right amount of IT
+	resources—for example, more or less computing power, storage, bandwidth—right when it is needed and from the right geographic location.
+Performance :
+	The biggest cloud computing services run on a worldwide network of secure datacenters, which are regularly upgraded to the latest generation of fast
+	and efficient computing hardware. This offers several benefits over a single corporate datacenter, including reduced network latency for applications
+	and greater economies of scale.
+Security :
+	Many cloud providers offer a broad set of policies, along with the security and helps to protect your data in a secured environment and from potential threats.
+Productivity :
+	On-site datacenters typically require a lot of "racking and stacking" — hardware setup, software patching, and other time-consuming tasks.
+	Cloud computing removes the need for many of these tasks, so IT teams can spend time on achieving more important business goals.
+Reliability :
+	Cloud computing makes data backup, disaster recovery and make business to continue in a easier way and less expensive because data can be mirrored
+	at multiple redundant sites on the cloud provider’s network.
+Speed :
+	Most cloud computing services are provided self service and on demand, so even vast amounts of computing resources can be provisioned in minutes,
+	typically with just a few mouse clicks, giving businesses a lot of flexibility and taking the pressure off capacity planning.

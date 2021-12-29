@@ -1,0 +1,5 @@
+The Distributed Management Task Force (DMTF) :
+-> DMTF enables more effective management of millions
+of IT systems worldwide by bringing the IT industry
+together to collaborate on the development, validation
+and promotion of systems management standards

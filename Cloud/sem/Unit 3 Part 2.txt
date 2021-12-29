@@ -1,0 +1,228 @@
+OCC : Open Cloud Consortium
+-> OCC is
+	=> A Not for profit
+	=> Manages and operates cloud computing infrastructure to support
+	   scientific, medical, health care and environmental research.
+-> OCC members span the globe and include over 10
+   universities, over 15 companies, and over 5 government
+   agencies and national laboratories.
+-> The OCC is organized into several different working groups.
+-> The purpose of the OCC is to support the development of
+   standards for cloud computing and to develop a
+   framework for interoperability among various clouds.
+-> The OCC supports the development of benchmarks for cloud
+   computing.
+-> Manages cloud computing testbeds, such as the Open Cloud
+   Testbed, to improve cloud computing software and services.
+-> Sponsors workshops and other events related to cloud computing
+   to educate the community.
+
+Standards for Application Developers
+
+-> The purpose of application development standards
+   is to ensure uniform, consistent, high-quality
+   software solutions.
+-> Programming standards help to improve the
+   readability of the software, allowing developers to
+   understand new code more quickly and thoroughly.
+-> Commonly used application standards are
+   available for the Internet in browsers, for
+   transferring data, sending messages, and securing data.
+   
+   Standards for Browsers (Ajax) :
+	-> AJAX (Asynchronous JavaScript and XML), is a
+	group of interrelated web development techniques
+	used to create interactive web applications or rich
+	Internet applications
+	-> Using Ajax, web applications can retrieve data from
+	the server asynchronously, without interfering with
+	the display and behavior of the browser page
+	currently being displayed to the user
+	-> The use of Ajax has led to an increase in interactive
+	animation on web pages.
+	-> Using Ajax, a web application can request only the
+	content that needs to be updated in the web pages. This 
+	greatly reduces networking bandwidth usage and page
+	load times. 
+	-> Sections of pages can be reloaded individually.
+	-> An Ajax framework helps developers to build dynamic
+	web pages on the client side. Data is sent to or from 
+	the server using requests, usually written in JavaScript.
+	->  ICEfaces is an open source Ajax framework developed
+	as Java product and maintained by http://icefaces.org.
+	ICEfaces Ajax Application Framework :
+	1. ICEfaces is an integrated Ajax application 
+	framework that enables Java EE application 
+	developers to easily create and deploy thin-client 
+	rich Internet applications in pure Java.
+	2.To run ICEfaces applications, users need to 
+	download and install the following products:
+	● Java 2 Platform, Standard Edition
+	● Ant
+	● Tomcat
+	● ICEfaces
+	● Web browser (if you don’t already have one installed)
+	-> ICEfaces is the one of the most secure Ajax
+	solutions available. 
+	-> It is Compatible with SSL (Secure Sockets Layer)
+	protocol
+	-> It prevents cross-site scripting, malicious code
+	injection, and unauthorized data mining. 
+	-> ICEfaces does not expose application logic or user
+	data.
+	-> It is effective in preventing fake form submits and
+	SQL (Structured Query Language) injection attacks.
+	-> write about XML AND JSON
+	-> JSON :  Its main application
+	is in Ajax web application programming, where
+	it serves as an alternative to the XML format.
+	Popular : LAPP > LAMP
+	-> Many consider the LAPP stack a more secure
+	out-of-the-box solution than the LAMP stack.
+
+Standards for Messaging :
+
+-> A message is a unit of information that is moved
+   from one place to another
+-> Most common messaging standards used in the cloud
+are
+	1. Simple Message Transfer Protocol (SMTP)
+	2. Post Office Protocol (POP)
+	3. Internet Messaging Access Protocol (IMAP)
+	4. Syndication (Atom, Atom Publishing Protocol,
+and RSS)
+	5. Communications (HTTP, SIMPLE, and XMPP)
+
+SMTP :
+-> Simple Message Transfer Protocol is arguably the most
+   important protocol in use today for basic messaging. Before
+   SMTP was created, email messages were sent using File
+   Transfer Protocol (FTP).
+-> The FTP protocol was designed to transmit files, not
+   messages, so it did not provide any means for recipients to
+   identify the sender or for the sender to designate an intended
+   recipient.
+-> SMTP was designed so that sender and recipient information
+   could be transmitted with the message
+-> SMTP is a two-way protocol that usually operates using TCP
+   port 25.
+POP :
+-> SMTP can be used both to send and receive messages, but
+   the client must have a constant connection to the host to
+   receive SMTP messages.
+-> The Post Office Protocol (POP) was introduced to
+   circumvent this situation.
+-> POP is a lightweight protocol whose single purpose is to
+   download messages a server. This allows a server to
+   store messages until a client connects and requests them. 
+-> Once the client connects, POP servers begin to download
+   the messages and subsequently delete them from the server
+   in order to make room for more messages.
+IMAP :
+-> Once mail messages are downloaded with POP, they are
+   automatically deleted from the server when the download
+   process has finished.
+-> Many businesses have compulsory compliance guidelines that
+   require saving messages. It also becomes a problem if users
+   move from computer to computer or use mobile networking,
+   since their messages do not automatically move where they go.
+-> To get around these problems, a standard called Internet
+   Messaging Access Protocol was created. IMAP allows
+   messages to be kept on the server but viewed and manipulated
+   as though they were stored locally.
+Syndication :
+-> In general, syndication is the supply of material
+   for reuse and integration with other material,
+   often through a paid service subscription.
+-> The most common example of syndication is in
+   newspapers, where such content as wire-service
+   news, comics, columns, horoscopes, and
+   crossword puzzles are usually syndicated content.
+-> Newspapers receive the content from the content
+   providers, reformat it as required, integrate it with
+   other copy, print it, and publish it
+-> Atom is an XML-based document format that
+   describes lists of related information known as
+   "feeds".
+-> Feeds are composed of a number of items, known
+   as "entries", each with an extensible set of attached
+   meta-data. For example, each entry has a title. 
+-> The Atom Publishing Protocol (AtomPub) is an 
+   applicationlevel protocol for publishing and editing 
+   Web resources. 
+-> RSS stands for Really Simple Syndication
+-> RSS allows you to syndicate your site content
+-> RSS files can be automatically updated
+-> RSS allows personalized views for different sites
+-> RSS is written in XML
+-> RSS was designed to show selected data.
+-> Without RSS, users will have to check your site daily for
+   new updates. This may be too time-consuming for many
+   users. With an RSS feed they can check your site faster using
+   an RSS aggregator
+
+Standards for Security
+-> Security standards define the processes,
+   procedures, and practices necessary for
+   implementing a secure environment that provides
+   privacy and security of confidential information in
+   a cloud environment.
+-> Security protocols, used in the cloud are
+   1.Security Assertion Markup Language (SAML)
+   2.Open Authentication (Oauth)
+   3.OpenID
+   4.SSL/TLS
+
+Security Assertion Markup Language : (SAML)
+-> SAML is an XML-based standard for communicating
+   authentication, authorization, and attribute information among online
+   partners. It allows businesses to securely send assertions between
+   partner organizations regarding the identity and entitlements of a
+   principal.
+-> SAML is designed for business-to-business (B2B) and
+   business-to-consumer (B2C) transactions.
+-> SAML is built on a number of existing standards, namely, SOAP,
+   HTTP, and XML. SAML relies on HTTP as its communications
+   protocol and specifies the use of SOAP.
+-> Most SAML transactions are expressed in a standardized form of
+   XML. SAML assertions and protocols are specified using XML
+   schema.
+
+Open Authentication (Oauth)
+-> OAuth is an open protocol, initiated by Blaine
+   Cook and Chris Messina, to allow secure API
+   authorization in a simple, standardized method
+   for various types of web applications.
+-> OAuth is a method for publishing and
+   interacting with protected data.
+-> OAuth provides users access to their data while
+   protecting account credentials.
+-> OAuth by itself provides no privacy at all and
+   depends on other protocols such as SSL to
+   accomplish that.
+
+OpenID
+-> OpenID is an open, decentralized standard for user
+   authentication and access control that allows users to
+   log onto many services using the same digital identity.
+-> It is a single-sign-on (SSO) method of access control.
+-> It replaces the common log-in process (i.e., a log-in
+   name and a password) by allowing users to log in
+   once and gain access to resources across participating
+   systems.
+-> An OpenID is in the form of a unique URL and is
+   authenticated by the entity hosting the OpenID URL.
+
+SSL/TLS
+-> Transport Layer Security (TLS) and its predecessor, Secure
+   Sockets Layer (SSL), are cryptographically secure protocols
+   designed to provide security and data integrity for
+   communications over TCP/IP
+-> TLS and SSL encrypt the segments of network connections
+   at the transport layer.
+-> TLS provides endpoint authentication and data
+   confidentiality by using cryptography.
+-> TLS involves three basic phases:
+   1.Peer negotiation for algorithm support
+   2.Key exchange and authentication
+   3.Symmetric cipher encryption and message authentication
